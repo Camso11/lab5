@@ -7,7 +7,9 @@ class HelloWorld
     public static void main(String args[]) 
     { 
         System.out.println("Hello, World"); 
-    } 
-        System.out.println("CAMERON SMITH WAS HERE");
+	System.out.println("CAMERON SMITH WAS HERE");
+ 
+   } 
+       
 }
 
